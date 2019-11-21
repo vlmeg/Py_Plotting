@@ -1,1 +1,1 @@
-# Py_Plotting
+# Examples of plotting in Python
